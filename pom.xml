@@ -107,7 +107,9 @@
 	      -->
 		<url>http://13.126.63.209:8649/haribol108/repository/wallmart-releases/</url>
 	    </repository>
-	    
+	    <!--
+		hello
+	    -->
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
