@@ -102,11 +102,11 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      
-		<url>http://13.59.220.93:9980/mithuntechnologies/repository/wallmart-releases/</url>
 	      <!--
-		<url>http://13.126.63.209:8649/haribol108/repository/wallmart-releases/</url>
+		<url>http://13.59.220.93:9980/mithuntechnologies/repository/wallmart-releases/</url>
 	      -->
+		<url>http://52.66.237.29:8649/haribol108/repository/wallmart-releases/</url>
+	      
 	    </repository>
 	    <!--
 		hello
@@ -114,11 +114,11 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      
-	      <url>http://13.59.220.93:9980/mithuntechnologies/repository/wallmart-snapshot/</url>
 	      <!--
-	      <url>http://13.126.63.209:8649/haribol108/repository/wallmart-snapshot/</url>
+	      <url>http://13.59.220.93:9980/mithuntechnologies/repository/wallmart-snapshot/</url>
 	      -->
+	      <url>http://52.66.237.29:8649/haribol108/repository/wallmart-snapshot/</url>
+	      
 	    </snapshotRepository>
 	    
 	</distributionManagement>
